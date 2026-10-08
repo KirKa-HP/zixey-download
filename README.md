@@ -2,6 +2,10 @@
 
 Видеоредактор, эмодзи и стикеры, фото, документы — для Windows 10/11 (64-бит).
 
+## [⬇ Android: Zixey.apk](https://raw.githubusercontent.com/KirKa-HP/zixey-download/main/Zixey.apk)
+
+Пробная версия для телефона: открыть файл на телефоне, разрешить установку из этого источника, «Установить».
+
 ## [⬇ Скачать Zixey.exe](https://raw.githubusercontent.com/KirKa-HP/zixey-download/main/Zixey.exe)
 
 Версия 0.2.0 · 72 МБ · установка не нужна — просто запустить файл.
