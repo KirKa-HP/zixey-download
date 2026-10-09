@@ -1,7 +1,7 @@
 {
-  "build": 2610092031,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/7926710bfb1c012c184bcb260d59382e25b23568/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/7926710bfb1c012c184bcb260d59382e25b23568/Zixey.apk",
+  "build": 2610092101,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/886e5efadf6452f3709a448d899a838d72b4efc9/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/886e5efadf6452f3709a448d899a838d72b4efc9/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "обновление в один клик"
+  "notes": "экспорт: время больше не прыгает"
 }
