@@ -1,7 +1,7 @@
 {
-  "build": 2610101905,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/8ba5b94898382b7ba75b962a93ea854006997d8b/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/8ba5b94898382b7ba75b962a93ea854006997d8b/Zixey.apk",
+  "build": 2610101936,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0ab6fb423ecd79ec6646458a60fb7968cfac95de/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0ab6fb423ecd79ec6646458a60fb7968cfac95de/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "«Дублировать» (Ctrl+D) теперь ставит копию не сбоку, а прямо над клипом — в то же время, на дорожку выше"
+  "notes": "Маски: выделение объекта стало намного точнее — меньше лишнего захватывает. «Рамкой» теперь выделяет сам объект внутри рамки | Объект можно обвести вручную: щелчками по углам или просто ведя мышью | «Править контур»: тяните точки, щёлкните по линии — появится новая точка, двойной щелчок по точке — убрать | Ведение за объектом работает и с исправленным или нарисованным контуром — линия сама едет и меняет размер вместе с объектом"
 }
