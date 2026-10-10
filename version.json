@@ -1,7 +1,7 @@
 {
-  "build": 2610101314,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0e32f39e4a3e0f0f63f90beda17327fc76003e5c/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0e32f39e4a3e0f0f63f90beda17327fc76003e5c/Zixey.apk",
+  "build": 2610101327,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/5e12528cf4af3a1229c31d4d4d054fc6245bbd09/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/5e12528cf4af3a1229c31d4d4d054fc6245bbd09/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "камера за объектом, точный трекинг, новые динамичные субтитры, субтитры по всему звуку"
+  "notes": "вкладка «Умные» со всеми сложными функциями"
 }
