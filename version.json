@@ -1,7 +1,7 @@
 {
-  "build": 2610101327,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/5e12528cf4af3a1229c31d4d4d054fc6245bbd09/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/5e12528cf4af3a1229c31d4d4d054fc6245bbd09/Zixey.apk",
+  "build": 2610101353,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1d7e8a51b552154616e783cc54b2116912983f17/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1d7e8a51b552154616e783cc54b2116912983f17/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "вкладка «Умные» со всеми сложными функциями"
+  "notes": "Улучшить звук: шумодав на нейросети, гул, щелчки, перегруз, чёткость голоса, тембр, громкость под площадки, эффекты голоса; пресеты и прослушивание до и после"
 }
