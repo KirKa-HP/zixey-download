@@ -1,7 +1,7 @@
 {
-  "build": 2610101353,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1d7e8a51b552154616e783cc54b2116912983f17/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1d7e8a51b552154616e783cc54b2116912983f17/Zixey.apk",
+  "build": 2610101415,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/dd8c2b907a4a7b8d77caa050fee3992fd4ac4c01/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/dd8c2b907a4a7b8d77caa050fee3992fd4ac4c01/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Улучшить звук: шумодав на нейросети, гул, щелчки, перегруз, чёткость голоса, тембр, громкость под площадки, эффекты голоса; пресеты и прослушивание до и после"
+  "notes": "Экспорт стал проще и файлы в разы легче: выберите, куда отправляете (мессенджеры, соцсети, YouTube, для себя), и вес; можно задать «Не больше … МБ»"
 }
