@@ -1,7 +1,7 @@
 {
-  "build": 2610101857,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b88e164b31521da6cd81a475d828a2c6ff96ffe5/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b88e164b31521da6cd81a475d828a2c6ff96ffe5/Zixey.apk",
+  "build": 2610101905,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/8ba5b94898382b7ba75b962a93ea854006997d8b/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/8ba5b94898382b7ba75b962a93ea854006997d8b/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Окно экспорта сделано как в Filmora: название файла, папка, пресет, формат, разрешение, кодер и качество — всё на одном экране, а тонкие настройки — в «Дополнительно» | Слева можно выбрать кадр-обложку: она встроится в видео и будет видна в проводнике и мессенджерах, можно сохранить её и картинкой | Внизу сразу видно длину ролика и размер файла | Свои настройки можно сохранить как предустановку и выбирать потом из списка"
+  "notes": "«Дублировать» (Ctrl+D) теперь ставит копию не сбоку, а прямо над клипом — в то же время, на дорожку выше"
 }
