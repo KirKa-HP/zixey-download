@@ -1,12 +1,12 @@
 {
-  "build": 2610111502,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/e95bf20c60094180c47be6f4579b389a354ebbdc/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/e95bf20c60094180c47be6f4579b389a354ebbdc/Zixey.apk",
+  "build": 2610112328,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6abef5185a26c30a25cddc12a3d146c89cd96ac3/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6abef5185a26c30a25cddc12a3d146c89cd96ac3/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Убрать объект из видео: щёлкните по объекту — нейросеть найдёт его на всех кадрах клипа и сотрёт. Если камера стоит, фон берётся из других кадров. «Умные» → «Убрать объект из видео» или раздел «Маски объектов» у видео | Нейросети теперь считают на видеокарте — в 5–7 раз быстрее",
+  "notes": "Убрать объект из видео: после поиска можно пролистать кадры и поправить — щелчок добавляет, Alt+щелчок убирает лишнее, дальше пересчитается само | Когда камера движется, место объекта заполняется настоящим фоном из соседних кадров, а не только дорисовкой — меньше мерцания",
   "sha256": {
-    "exe": "53cb49cfbc12e9befb91959400a0113614fcaf4e6dad1b08e5ed28242ea4a094",
-    "apk": "f382ec2006dfb8ee15430c4cc41022072cca9b8602a889258e4c4f84f1881c14"
+    "exe": "e3a98f84015af4469bdce721dc9464523c577963c3c73975d005e6c9dca6f2c0",
+    "apk": "817d987bbfca388beaddea732c328869a332ca5759424b77db00da3a147d5701"
   },
-  "sig": "6reQrNQXrQeaieIkknaOnlztkSstq8DS4BQmLX28xF5K66z47YhsrcH52sOltXyG3+R7tG2IBtOoavLevDyQDw=="
+  "sig": "ZXSfgj5QwtpPZflXWBinve/x+BJcmLM+fA+q891HuIOTSs68oDT+GJ/4iZjbYJ1EsM0ih7xqG3UrPonUS57fAQ=="
 }
