@@ -1,12 +1,12 @@
 {
-  "build": 2610111409,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/df3115f73b6b6b6fc85c1abb892a61b60d55486a/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/df3115f73b6b6b6fc85c1abb892a61b60d55486a/Zixey.apk",
+  "build": 2610111502,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/e95bf20c60094180c47be6f4579b389a354ebbdc/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/e95bf20c60094180c47be6f4579b389a354ebbdc/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Фото: новый инструмент «Убрать объект» (R) — наведите, объект подсветится; щёлкните — он исчезнет, а место дорисует нейросеть | «Умный ластик» теперь дорисовывает нейросетью — заметно чище. Скачивается один раз (40 МБ) и работает без интернета",
+  "notes": "Убрать объект из видео: щёлкните по объекту — нейросеть найдёт его на всех кадрах клипа и сотрёт. Если камера стоит, фон берётся из других кадров. «Умные» → «Убрать объект из видео» или раздел «Маски объектов» у видео | Нейросети теперь считают на видеокарте — в 5–7 раз быстрее",
   "sha256": {
-    "exe": "c726589ad6d1e5815afd1717f578cd2e534f8047e7e597796130a92cf11d92f8",
-    "apk": "ac2491e8d60e6910736b76c61c329847807a53e9efb7f52a02bb5a5774ec996a"
+    "exe": "53cb49cfbc12e9befb91959400a0113614fcaf4e6dad1b08e5ed28242ea4a094",
+    "apk": "f382ec2006dfb8ee15430c4cc41022072cca9b8602a889258e4c4f84f1881c14"
   },
-  "sig": "gPbsn0z98XJfKisOC2l3nlv6fDIW2KAAi5XkDNRdw/Yav8i+TShom0l4dreuRCdAXpBvU2/JdSugRAvSPB8tDQ=="
+  "sig": "6reQrNQXrQeaieIkknaOnlztkSstq8DS4BQmLX28xF5K66z47YhsrcH52sOltXyG3+R7tG2IBtOoavLevDyQDw=="
 }
