@@ -1,12 +1,12 @@
 {
-  "build": 2610110406,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/e141ab789e19a0268429389f393e5572b329ad60/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/e141ab789e19a0268429389f393e5572b329ad60/Zixey.apk",
+  "build": 2610110548,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b7ee836340ccca3f90218e5d91bfa88d5ea04a5c/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b7ee836340ccca3f90218e5d91bfa88d5ea04a5c/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Ключи для стоков теперь получаются почти сами: нажмите «Получить» — откроется сайт, войдите или зарегистрируйтесь, и Zixey сам вставит ключ и проверит его. Правая кнопка по стоку — короткая инструкция | Если в ролике есть материалы со стоков, рядом с готовым видео появится файл с авторами — его можно вставить в описание | Ключи теперь хранятся зашифрованными | Обновления проверяются: ставятся только подписанные автором Zixey | Ошибки записываются в журнал, а в меню «Справка» можно открыть папку с журналами",
+  "notes": "Автосохранение: если Zixey закрылся неожиданно, при запуске можно восстановить последнюю работу | Файл проекта переехал — окно «Файл не найден»: укажите, где он, остальные из той же папки найдутся сами; такие клипы видны на шкале | В красной полосе ошибки — «Скопировать отчёт»: вставьте его в сообщение, и ошибку будет проще найти | Справка → Лицензии | Маска: точки контура можно добавлять и убирать — движение формы больше не сбрасывается",
   "sha256": {
-    "exe": "300a269db61c70c7bf42110f957d84ce7dfac9d101870e893fa251551b1d634a",
-    "apk": "eb74aa5c988aa0fbae3eb2d81b56ccbacfa79feff85159b9d1f5723b76166f10"
+    "exe": "51eb9db1d48c046a8fdadcecaa2b787d265f7819f0de6fa0533d2427b1c445c3",
+    "apk": "ea449d42f6c55113b0fa9c5082f71d56e2c2e18c5d3868c6416261b81ce12e9e"
   },
-  "sig": "3oiBLwihGX+BTFcXEVNVlYmFpBWcClayWOdHYlkSfXXixBMUB8O7ctkZBUvet8d/uU0WpTQE7OvzmAIHeva9Dw=="
+  "sig": "B9kmV/EC2XSLrWC147GbChgORRClfONF7OOR2JnsYxYfui9SywkrQ7QQUjxpIWZZNrxx/9EfXLV/GrqRAsulCw=="
 }
