@@ -1,12 +1,12 @@
 {
-  "build": 2610111313,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/d54a8e3ef1d61efa8ac7b3d3c565da74270bc294/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/d54a8e3ef1d61efa8ac7b3d3c565da74270bc294/Zixey.apk",
+  "build": 2610111409,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/df3115f73b6b6b6fc85c1abb892a61b60d55486a/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/df3115f73b6b6b6fc85c1abb892a61b60d55486a/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Маски: объект теперь выделяет нейросеть — лицо берётся без кепки, наушников и фона. Скачивается один раз (56 МБ) и работает без интернета | При выделении: колесо мыши — часть объекта или целиком, Shift+щелчок — добавить кусок, Alt+щелчок — убрать",
+  "notes": "Фото: новый инструмент «Убрать объект» (R) — наведите, объект подсветится; щёлкните — он исчезнет, а место дорисует нейросеть | «Умный ластик» теперь дорисовывает нейросетью — заметно чище. Скачивается один раз (40 МБ) и работает без интернета",
   "sha256": {
-    "exe": "498355555f62e664dfa3d7de5ef93f5cffff009607ec6de0194138cf2033afeb",
-    "apk": "ce8dac7cc53f7d64df38ac874a2f969348a273bc2aed8af73b3a73f367b99443"
+    "exe": "c726589ad6d1e5815afd1717f578cd2e534f8047e7e597796130a92cf11d92f8",
+    "apk": "ac2491e8d60e6910736b76c61c329847807a53e9efb7f52a02bb5a5774ec996a"
   },
-  "sig": "df9y5AtoH+iGWj6yowPWdHvZ1Ur9rDkF417H4Hd/NTVvbZeRGTjUQ8fhNLG2ITI7TAw3CtYucmXkunWXireZCw=="
+  "sig": "gPbsn0z98XJfKisOC2l3nlv6fDIW2KAAi5XkDNRdw/Yav8i+TShom0l4dreuRCdAXpBvU2/JdSugRAvSPB8tDQ=="
 }
