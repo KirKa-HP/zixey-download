@@ -1,12 +1,12 @@
 {
-  "build": 2610110548,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b7ee836340ccca3f90218e5d91bfa88d5ea04a5c/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b7ee836340ccca3f90218e5d91bfa88d5ea04a5c/Zixey.apk",
+  "build": 2610111313,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/d54a8e3ef1d61efa8ac7b3d3c565da74270bc294/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/d54a8e3ef1d61efa8ac7b3d3c565da74270bc294/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Автосохранение: если Zixey закрылся неожиданно, при запуске можно восстановить последнюю работу | Файл проекта переехал — окно «Файл не найден»: укажите, где он, остальные из той же папки найдутся сами; такие клипы видны на шкале | В красной полосе ошибки — «Скопировать отчёт»: вставьте его в сообщение, и ошибку будет проще найти | Справка → Лицензии | Маска: точки контура можно добавлять и убирать — движение формы больше не сбрасывается",
+  "notes": "Маски: объект теперь выделяет нейросеть — лицо берётся без кепки, наушников и фона. Скачивается один раз (56 МБ) и работает без интернета | При выделении: колесо мыши — часть объекта или целиком, Shift+щелчок — добавить кусок, Alt+щелчок — убрать",
   "sha256": {
-    "exe": "51eb9db1d48c046a8fdadcecaa2b787d265f7819f0de6fa0533d2427b1c445c3",
-    "apk": "ea449d42f6c55113b0fa9c5082f71d56e2c2e18c5d3868c6416261b81ce12e9e"
+    "exe": "498355555f62e664dfa3d7de5ef93f5cffff009607ec6de0194138cf2033afeb",
+    "apk": "ce8dac7cc53f7d64df38ac874a2f969348a273bc2aed8af73b3a73f367b99443"
   },
-  "sig": "B9kmV/EC2XSLrWC147GbChgORRClfONF7OOR2JnsYxYfui9SywkrQ7QQUjxpIWZZNrxx/9EfXLV/GrqRAsulCw=="
+  "sig": "df9y5AtoH+iGWj6yowPWdHvZ1Ur9rDkF417H4Hd/NTVvbZeRGTjUQ8fhNLG2ITI7TAw3CtYucmXkunWXireZCw=="
 }
