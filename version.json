@@ -1,12 +1,12 @@
 {
-  "build": 2610131418,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/7b2de7925220b79a7fa4b8588fd8ce2ed03a5e78/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/7b2de7925220b79a7fa4b8588fd8ce2ed03a5e78/Zixey.apk",
+  "build": 2610131506,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/3c782792c392fde48b2d246ee64633e2ebde599d/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/3c782792c392fde48b2d246ee64633e2ebde599d/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Вставки: можно менять цвет и размер любого текста, у таблиц — шапку, строки и ячейки отдельно; цвет текста теперь меняется и в титре с плашкой, шторке, логотипе, уведомлении | Сплит: до 6 видео в одном кадре — 50 раскладок, видео перетаскиваются прямо в ячейку | Ластик «Лучше качество» в Фото и при удалении объекта из видео",
+  "notes": "Обновления приходят почти сразу | Можно отложить — кнопка «Не сейчас»",
   "sha256": {
-    "exe": "22d5d9e18d45fcdc5ae4615621a661255864013a869d64622a6ebf7ce2ba0ad0",
-    "apk": "f2d87be73c1ed7e3eba1598eeff4149d641f06fe2602958fc9f54ef906bc564c"
+    "exe": "b00a8495dcd3653be237b57603637c84cfa19e9656084ec6a08840fa8e7c9106",
+    "apk": "dccc49b09482785b1871a170720fcb47b1fc0796aef7cc6f4d9746976b0faa1f"
   },
-  "sig": "ujiss9Ewb+FWsaiYg0hXRga2DczCrk6NbNTdXmF30lSdkYjuGW9FCMYLqIKjpXRQOAQSWHULM6llPoQV8z0xCQ=="
+  "sig": "I1lp5TL/Gsk2omlNSate0NUUarVCfG+bC7kYIRKiBugNwRtAPRJwS5hlBygbSOMrBK6r3oD+NYSv+B5W24aGBQ=="
 }
