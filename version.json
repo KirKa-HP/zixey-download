@@ -1,12 +1,12 @@
 {
-  "build": 2610131506,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/3c782792c392fde48b2d246ee64633e2ebde599d/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/3c782792c392fde48b2d246ee64633e2ebde599d/Zixey.apk",
+  "build": 2610131642,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6b32f0a7c6277be712b395ccf677b3480215bf31/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6b32f0a7c6277be712b395ccf677b3480215bf31/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Обновления приходят почти сразу | Можно отложить — кнопка «Не сейчас»",
+  "notes": "Субтитры: 20 новых стилей | Стили выбираются по картинкам, наведите — покажут себя в движении | Редактор субтитров: текст правится как в документе",
   "sha256": {
-    "exe": "b00a8495dcd3653be237b57603637c84cfa19e9656084ec6a08840fa8e7c9106",
-    "apk": "dccc49b09482785b1871a170720fcb47b1fc0796aef7cc6f4d9746976b0faa1f"
+    "exe": "bb13894dc59b6434d9ea96841f2f617d9908fe71afda2c815a4489644e88e4ab",
+    "apk": "a45f7993d71c89dc93a774c825409b7df0814d131fc2ccc3ddcb37e51c48da38"
   },
-  "sig": "I1lp5TL/Gsk2omlNSate0NUUarVCfG+bC7kYIRKiBugNwRtAPRJwS5hlBygbSOMrBK6r3oD+NYSv+B5W24aGBQ=="
+  "sig": "EHm5mWfdkGhZYDpcbdOFH9OayHN9OzFGCXVawNIpTIkVY1rgEgKlME05Fs94lYt9SrGtW91FPF87dig5Y7hcDA=="
 }
