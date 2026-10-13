@@ -1,12 +1,12 @@
 {
-  "build": 2610130900,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/148a97baef3cf3370e14c4e2cd3d7c950a5e5322/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/148a97baef3cf3370e14c4e2cd3d7c950a5e5322/Zixey.apk",
+  "build": 2610131418,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/7b2de7925220b79a7fa4b8588fd8ce2ed03a5e78/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/7b2de7925220b79a7fa4b8588fd8ce2ed03a5e78/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Убрать объект из видео: после поиска можно пролистать кадры и поправить — щелчок добавляет, Alt+щелчок убирает лишнее, дальше пересчитается само | Когда камера движется, место объекта заполняется настоящим фоном из соседних кадров, а не только дорисовкой — меньше мерцания",
+  "notes": "Вставки: можно менять цвет и размер любого текста, у таблиц — шапку, строки и ячейки отдельно; цвет текста теперь меняется и в титре с плашкой, шторке, логотипе, уведомлении | Сплит: до 6 видео в одном кадре — 50 раскладок, видео перетаскиваются прямо в ячейку | Ластик «Лучше качество» в Фото и при удалении объекта из видео",
   "sha256": {
-    "exe": "73270980eed84f1c776ccb420581e0d04d0484db5afe45243fc840516239c48b",
-    "apk": "29ad499d97998803eadaf6d81074787a0a6d95c6f661cfa2a4993f0a868fde57"
+    "exe": "22d5d9e18d45fcdc5ae4615621a661255864013a869d64622a6ebf7ce2ba0ad0",
+    "apk": "f2d87be73c1ed7e3eba1598eeff4149d641f06fe2602958fc9f54ef906bc564c"
   },
-  "sig": "Zhb2tSTmxvchWjPkaby0CPagoJnCzxH4gnMG4k9VWZ+tTvwCzPeYkdlAt0g+ZQZnGc3PIQ/tCmfaMqXgPdmBDg=="
+  "sig": "ujiss9Ewb+FWsaiYg0hXRga2DczCrk6NbNTdXmF30lSdkYjuGW9FCMYLqIKjpXRQOAQSWHULM6llPoQV8z0xCQ=="
 }
