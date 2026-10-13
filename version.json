@@ -1,12 +1,12 @@
 {
-  "build": 2610112328,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6abef5185a26c30a25cddc12a3d146c89cd96ac3/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6abef5185a26c30a25cddc12a3d146c89cd96ac3/Zixey.apk",
+  "build": 2610130900,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/148a97baef3cf3370e14c4e2cd3d7c950a5e5322/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/148a97baef3cf3370e14c4e2cd3d7c950a5e5322/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
   "notes": "Убрать объект из видео: после поиска можно пролистать кадры и поправить — щелчок добавляет, Alt+щелчок убирает лишнее, дальше пересчитается само | Когда камера движется, место объекта заполняется настоящим фоном из соседних кадров, а не только дорисовкой — меньше мерцания",
   "sha256": {
-    "exe": "e3a98f84015af4469bdce721dc9464523c577963c3c73975d005e6c9dca6f2c0",
-    "apk": "817d987bbfca388beaddea732c328869a332ca5759424b77db00da3a147d5701"
+    "exe": "73270980eed84f1c776ccb420581e0d04d0484db5afe45243fc840516239c48b",
+    "apk": "29ad499d97998803eadaf6d81074787a0a6d95c6f661cfa2a4993f0a868fde57"
   },
-  "sig": "ZXSfgj5QwtpPZflXWBinve/x+BJcmLM+fA+q891HuIOTSs68oDT+GJ/4iZjbYJ1EsM0ih7xqG3UrPonUS57fAQ=="
+  "sig": "Zhb2tSTmxvchWjPkaby0CPagoJnCzxH4gnMG4k9VWZ+tTvwCzPeYkdlAt0g+ZQZnGc3PIQ/tCmfaMqXgPdmBDg=="
 }
