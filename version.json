@@ -1,12 +1,12 @@
 {
-  "build": 2610131642,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6b32f0a7c6277be712b395ccf677b3480215bf31/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/6b32f0a7c6277be712b395ccf677b3480215bf31/Zixey.apk",
+  "build": 2610141947,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0295e6ea7d23387bd9721a3a0742cf4c9e6acf80/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0295e6ea7d23387bd9721a3a0742cf4c9e6acf80/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Субтитры: 20 новых стилей | Стили выбираются по картинкам, наведите — покажут себя в движении | Редактор субтитров: текст правится как в документе",
+  "notes": "Фигуры, 3D-фигуры и стрелки | 17 новых эффектов на видео | 20 стилей текста, свечение, объём и обводка везде | Громкость в децибелах | Поиск и избранное во всех вкладках | Иконка Zixey",
   "sha256": {
-    "exe": "bb13894dc59b6434d9ea96841f2f617d9908fe71afda2c815a4489644e88e4ab",
-    "apk": "a45f7993d71c89dc93a774c825409b7df0814d131fc2ccc3ddcb37e51c48da38"
+    "exe": "a198818eb5d18c3d9bb0dce9e93d3877603fc4476b701b0e1b6b1f7d70a79964",
+    "apk": "128a00764a3c7872b2eda441b31849f88c05dde187dec022d60d85177f131330"
   },
-  "sig": "EHm5mWfdkGhZYDpcbdOFH9OayHN9OzFGCXVawNIpTIkVY1rgEgKlME05Fs94lYt9SrGtW91FPF87dig5Y7hcDA=="
+  "sig": "KXncaW9ZnjpBBuTlixdrQ+dnBBfF64npsCdW2CGMM44xmzOikXhbguuAB8PyGzc5cL3JSYBH3sOoq03npdw+CA=="
 }
