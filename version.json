@@ -1,12 +1,12 @@
 {
-  "build": 2610141947,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0295e6ea7d23387bd9721a3a0742cf4c9e6acf80/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/0295e6ea7d23387bd9721a3a0742cf4c9e6acf80/Zixey.apk",
+  "build": 2610142127,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1dc9991a4975b49f78c170d5ca4719ae82d57716/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1dc9991a4975b49f78c170d5ca4719ae82d57716/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Фигуры, 3D-фигуры и стрелки | 17 новых эффектов на видео | 20 стилей текста, свечение, объём и обводка везде | Громкость в децибелах | Поиск и избранное во всех вкладках | Иконка Zixey",
+  "notes": "Экспорт в 5–7 раз быстрее | Видео больше не проигрывается при экспорте: кадры расшифровываются и сжимаются видеокартой | Кадры в готовом файле точнее совпадают с исходником | Если нужно, быстрый экспорт выключается в «Экспорт → Дополнительно»",
   "sha256": {
-    "exe": "a198818eb5d18c3d9bb0dce9e93d3877603fc4476b701b0e1b6b1f7d70a79964",
-    "apk": "128a00764a3c7872b2eda441b31849f88c05dde187dec022d60d85177f131330"
+    "exe": "5569dd117ccc4fb2a43b17871e2160df971324c641307efe23d45f9c77790414",
+    "apk": "b97312a23ed5d702cc12026c3274e902ad6ad0075a8d85e5f022c045ab55802a"
   },
-  "sig": "KXncaW9ZnjpBBuTlixdrQ+dnBBfF64npsCdW2CGMM44xmzOikXhbguuAB8PyGzc5cL3JSYBH3sOoq03npdw+CA=="
+  "sig": "DQmHQ7h2MlOk+QKxebSlxdLeL0y7ouUhQ2/rZ2NXA0cjKMl5aVuX+EuLcL9+va3bRkKJta57vazsyzJzWSbkCA=="
 }
