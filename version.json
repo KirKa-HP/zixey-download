@@ -1,12 +1,12 @@
 {
-  "build": 2610142127,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1dc9991a4975b49f78c170d5ca4719ae82d57716/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/1dc9991a4975b49f78c170d5ca4719ae82d57716/Zixey.apk",
+  "build": 2610182240,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/043eb56c3fac9e939f019e80a73ded756620af92/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/043eb56c3fac9e939f019e80a73ded756620af92/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Экспорт в 5–7 раз быстрее | Видео больше не проигрывается при экспорте: кадры расшифровываются и сжимаются видеокартой | Кадры в готовом файле точнее совпадают с исходником | Если нужно, быстрый экспорт выключается в «Экспорт → Дополнительно»",
+  "notes": "Поворот прямо в кадре | Над рамкой выбранного видео, фото, текста или вставки — кружок: потяни, и клип повернётся | Shift — поворот шагами по 15°, к ровным углам примагничивает | Рамка поворачивается вместе с клипом",
   "sha256": {
-    "exe": "5569dd117ccc4fb2a43b17871e2160df971324c641307efe23d45f9c77790414",
-    "apk": "b97312a23ed5d702cc12026c3274e902ad6ad0075a8d85e5f022c045ab55802a"
+    "exe": "91bdb7cc5475a453d9a8e34aeff974526512b4fba93df1114c44b49cee840046",
+    "apk": "a9590ba811b673daf1f122619238f51fe1b406fe6a009057a32c865d0cc5d836"
   },
-  "sig": "DQmHQ7h2MlOk+QKxebSlxdLeL0y7ouUhQ2/rZ2NXA0cjKMl5aVuX+EuLcL9+va3bRkKJta57vazsyzJzWSbkCA=="
+  "sig": "u44YgLvlMPE31x+WVpqity/z6K9ayK6NOp8Oi5bMYuEL+3Nnvcypt/mgnz5vX6GRW3X1ge2H6fg4Af5mkfDBDA=="
 }
