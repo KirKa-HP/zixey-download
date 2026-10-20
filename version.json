@@ -1,12 +1,12 @@
 {
-  "build": 2610182240,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/043eb56c3fac9e939f019e80a73ded756620af92/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/043eb56c3fac9e939f019e80a73ded756620af92/Zixey.apk",
+  "build": 2610210145,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b0dc80905f056dce328908a55ddb7f40333ad2ee/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b0dc80905f056dce328908a55ddb7f40333ad2ee/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Поворот прямо в кадре | Над рамкой выбранного видео, фото, текста или вставки — кружок: потяни, и клип повернётся | Shift — поворот шагами по 15°, к ровным углам примагничивает | Рамка поворачивается вместе с клипом",
+  "notes": "Исправлены ffmpeg и MOV | ffmpeg ставится надёжно: без ошибок во время установки, докачка при обрыве связи, запасной сервер | Видео MOV, которые раньше были чёрными (ProRes, HEVC), сами переводятся в MP4 | Экспорт с таким видео больше не зависает",
   "sha256": {
-    "exe": "91bdb7cc5475a453d9a8e34aeff974526512b4fba93df1114c44b49cee840046",
-    "apk": "a9590ba811b673daf1f122619238f51fe1b406fe6a009057a32c865d0cc5d836"
+    "exe": "0f415894840bdf01033a45fed4109c1808b91eb259c121dcaf9597e5f17bd508",
+    "apk": "c616c215f060f058ec796539a209bb5b1609200f59a1a6bde42c7e949f7b3612"
   },
-  "sig": "u44YgLvlMPE31x+WVpqity/z6K9ayK6NOp8Oi5bMYuEL+3Nnvcypt/mgnz5vX6GRW3X1ge2H6fg4Af5mkfDBDA=="
+  "sig": "QP083nD54V6XnSdtPdnSoP1YbbKEU4Qq6M+tZHfDni1ET6g1TDaSZjN3plPPHIKXXDVA+ypzICzRegJX0rZmAg=="
 }
