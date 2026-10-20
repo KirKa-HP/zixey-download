@@ -1,12 +1,12 @@
 {
-  "build": 2610210224,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/bdaa75ea79120320ae105add1443a1f1bc29ab78/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/bdaa75ea79120320ae105add1443a1f1bc29ab78/Zixey.apk",
+  "build": 2610210256,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/54f49a282edc19d9446465de009db7f5a5ba08c6/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/54f49a282edc19d9446465de009db7f5a5ba08c6/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Двойной щелчок по сплиту больше не вызывает ошибку",
+  "notes": "Новые таймеры, переходы и эффекты | 7 таймеров: кольцо, барабан, циферблат, спортивное табло и другие | 12 переходов: куб, мягкая шторка, зум с размытием и другие | 11 эффектов: кинолук, туман, блик, конфетти и другие",
   "sha256": {
-    "exe": "b76790a790bcabadddfca3d717ef559d66c01523ac87772390a5f10b3c088686",
-    "apk": "2c8919f04ea21b92ce76980f8fab387cd13775b08fb3a08e408925d442164a1d"
+    "exe": "572e7aa69507f7c944a37100dd5a3cd084b3edb890e97bce4784fd678627490a",
+    "apk": "5e6a2d307a060fa1f470b714b87c74302f4f54698bdd0ba14d514377f2d2a2df"
   },
-  "sig": "vdo2FBSs6r1Ay2LpL3y4dRo+NFE8NzUdNH4QcLMqb1gV5JHkIwHiL+uKmHhaP+fJ0EjOhrrzqfD6K3MflyWBBw=="
+  "sig": "TsZ5c4+y/AF9Nb7RmaCTsrH47ZXnmyHYcAt/4VgdSaP9Fvwi4fQFc6HxIn+P/VjBJvdhwxIZ4SG++DJCWDG3Aw=="
 }
