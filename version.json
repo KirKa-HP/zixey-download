@@ -1,12 +1,12 @@
 {
-  "build": 2610210145,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b0dc80905f056dce328908a55ddb7f40333ad2ee/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/b0dc80905f056dce328908a55ddb7f40333ad2ee/Zixey.apk",
+  "build": 2610210224,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/bdaa75ea79120320ae105add1443a1f1bc29ab78/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/bdaa75ea79120320ae105add1443a1f1bc29ab78/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Исправлены ffmpeg и MOV | ffmpeg ставится надёжно: без ошибок во время установки, докачка при обрыве связи, запасной сервер | Видео MOV, которые раньше были чёрными (ProRes, HEVC), сами переводятся в MP4 | Экспорт с таким видео больше не зависает",
+  "notes": "Двойной щелчок по сплиту больше не вызывает ошибку",
   "sha256": {
-    "exe": "0f415894840bdf01033a45fed4109c1808b91eb259c121dcaf9597e5f17bd508",
-    "apk": "c616c215f060f058ec796539a209bb5b1609200f59a1a6bde42c7e949f7b3612"
+    "exe": "b76790a790bcabadddfca3d717ef559d66c01523ac87772390a5f10b3c088686",
+    "apk": "2c8919f04ea21b92ce76980f8fab387cd13775b08fb3a08e408925d442164a1d"
   },
-  "sig": "QP083nD54V6XnSdtPdnSoP1YbbKEU4Qq6M+tZHfDni1ET6g1TDaSZjN3plPPHIKXXDVA+ypzICzRegJX0rZmAg=="
+  "sig": "vdo2FBSs6r1Ay2LpL3y4dRo+NFE8NzUdNH4QcLMqb1gV5JHkIwHiL+uKmHhaP+fJ0EjOhrrzqfD6K3MflyWBBw=="
 }
