@@ -1,12 +1,12 @@
 {
-  "build": 2610210403,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/62cda9bbe0a3962ceb0bd7ae1c0bfccb08fe9562/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/62cda9bbe0a3962ceb0bd7ae1c0bfccb08fe9562/Zixey.apk",
+  "build": 2610211849,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/80dd76e2ca37dbe56c9dbcc0e1769ce229e28c67/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/80dd76e2ca37dbe56c9dbcc0e1769ce229e28c67/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Телефонная версия стала удобнее | «Назад» больше не закрывает приложение, проект сохраняется сам | Новое видео не затирает прошлое с тем же названием | Голосовые из Telegram (.opus) можно класть на шкалу | Фото и эмодзи разложены под экран телефона | ИИ и стоки работают на телефоне",
+  "notes": "Телефон: файлы снова добавляются | Исправлена ошибка «Missing parent directory» при добавлении первого видео на телефоне | Ошибки на телефоне теперь пишутся по-русски и понятно",
   "sha256": {
-    "exe": "f9019db7859357491389ef29fe024c80a49bf54f599bcc99502d8856a99330fb",
-    "apk": "eaf20fcdaa607eb7c16af1929616607881b505b26c55fafba585d38c9e5aed82"
+    "exe": "8c45b706a6b86ab974124b4eeb92295eaaa0abfde2556e3e07815f8301df659d",
+    "apk": "5acef6f1f24be4354458dca3098d227f5aa5ecf0a88d7ab768d600cd7ba96b8d"
   },
-  "sig": "iqASugQAVgU1nesarT6EqD+tBzCaBMcfQBUs6WoUed2rAmr/LjxW+L2wHwIsn5WAOPNjROuTn/jYaMek7IBzDg=="
+  "sig": "TOxCyDfjDUuiWAT4Lf2IawqEMV8xVI7qmOhaPXu/MAewqpL0VAC65HoaLzarDV1JJNAgoNFYrZ6lHCuI6/AwCA=="
 }
