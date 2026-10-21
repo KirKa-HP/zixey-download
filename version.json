@@ -1,12 +1,12 @@
 {
-  "build": 2610211849,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/80dd76e2ca37dbe56c9dbcc0e1769ce229e28c67/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/80dd76e2ca37dbe56c9dbcc0e1769ce229e28c67/Zixey.apk",
+  "build": 2610211924,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/45fcc1d279c65e8b0a2f75866164eb5a0d412f1c/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/45fcc1d279c65e8b0a2f75866164eb5a0d412f1c/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Телефон: файлы снова добавляются | Исправлена ошибка «Missing parent directory» при добавлении первого видео на телефоне | Ошибки на телефоне теперь пишутся по-русски и понятно",
+  "notes": "Видео с камеры телефона добавляются | Ролики с камеры (HEVC) телефон теперь сам переводит в нужный формат и вставляет на шкалу",
   "sha256": {
-    "exe": "8c45b706a6b86ab974124b4eeb92295eaaa0abfde2556e3e07815f8301df659d",
-    "apk": "5acef6f1f24be4354458dca3098d227f5aa5ecf0a88d7ab768d600cd7ba96b8d"
+    "exe": "f519f323b1944dc096242490d03c8d4cc17bc4439a8edca0f329e5b7734c49f3",
+    "apk": "42f042b69b2ae3cecf25ead3688ba668138d9a98cebdc713b567b6579b3fb48a"
   },
-  "sig": "TOxCyDfjDUuiWAT4Lf2IawqEMV8xVI7qmOhaPXu/MAewqpL0VAC65HoaLzarDV1JJNAgoNFYrZ6lHCuI6/AwCA=="
+  "sig": "hcgNiE+EmFO6YeUDHFKnIkpJFkRXSZCImqSr6xQJ03WIVmd/NEERey/hCCa+9bzDNJPrfOilyiZHr3vl8J7QCQ=="
 }
