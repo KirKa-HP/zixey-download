@@ -1,12 +1,12 @@
 {
-  "build": 2610210256,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/54f49a282edc19d9446465de009db7f5a5ba08c6/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/54f49a282edc19d9446465de009db7f5a5ba08c6/Zixey.apk",
+  "build": 2610210403,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/62cda9bbe0a3962ceb0bd7ae1c0bfccb08fe9562/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/62cda9bbe0a3962ceb0bd7ae1c0bfccb08fe9562/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Новые таймеры, переходы и эффекты | 7 таймеров: кольцо, барабан, циферблат, спортивное табло и другие | 12 переходов: куб, мягкая шторка, зум с размытием и другие | 11 эффектов: кинолук, туман, блик, конфетти и другие",
+  "notes": "Телефонная версия стала удобнее | «Назад» больше не закрывает приложение, проект сохраняется сам | Новое видео не затирает прошлое с тем же названием | Голосовые из Telegram (.opus) можно класть на шкалу | Фото и эмодзи разложены под экран телефона | ИИ и стоки работают на телефоне",
   "sha256": {
-    "exe": "572e7aa69507f7c944a37100dd5a3cd084b3edb890e97bce4784fd678627490a",
-    "apk": "5e6a2d307a060fa1f470b714b87c74302f4f54698bdd0ba14d514377f2d2a2df"
+    "exe": "f9019db7859357491389ef29fe024c80a49bf54f599bcc99502d8856a99330fb",
+    "apk": "eaf20fcdaa607eb7c16af1929616607881b505b26c55fafba585d38c9e5aed82"
   },
-  "sig": "TsZ5c4+y/AF9Nb7RmaCTsrH47ZXnmyHYcAt/4VgdSaP9Fvwi4fQFc6HxIn+P/VjBJvdhwxIZ4SG++DJCWDG3Aw=="
+  "sig": "iqASugQAVgU1nesarT6EqD+tBzCaBMcfQBUs6WoUed2rAmr/LjxW+L2wHwIsn5WAOPNjROuTn/jYaMek7IBzDg=="
 }
