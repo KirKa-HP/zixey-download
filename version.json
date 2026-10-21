@@ -1,12 +1,12 @@
 {
-  "build": 2610211924,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/45fcc1d279c65e8b0a2f75866164eb5a0d412f1c/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/45fcc1d279c65e8b0a2f75866164eb5a0d412f1c/Zixey.apk",
+  "build": 2610211944,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/bb4791c391e751a8a7be1c2185562df398f8cb71/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/bb4791c391e751a8a7be1c2185562df398f8cb71/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Видео с камеры телефона добавляются | Ролики с камеры (HEVC) телефон теперь сам переводит в нужный формат и вставляет на шкалу",
+  "notes": "Монтаж на телефоне как в CapCut | Шкала листается пальцем под курсором посередине | Выбрал клип — внизу его инструменты: разделить, скорость, громкость, анимация и другие | Клип переносится долгим нажатием | «+» добавляет видео в конец",
   "sha256": {
-    "exe": "f519f323b1944dc096242490d03c8d4cc17bc4439a8edca0f329e5b7734c49f3",
-    "apk": "42f042b69b2ae3cecf25ead3688ba668138d9a98cebdc713b567b6579b3fb48a"
+    "exe": "0bf7870b409e939cfe251970f9cf62331f0affc904b5d61de16e2b9d4fc2bf75",
+    "apk": "dbe58b03c3c50cff7f5abbecc51f1630c72e950fa2790bd2f0185ece3d2f3067"
   },
-  "sig": "hcgNiE+EmFO6YeUDHFKnIkpJFkRXSZCImqSr6xQJ03WIVmd/NEERey/hCCa+9bzDNJPrfOilyiZHr3vl8J7QCQ=="
+  "sig": "5m2/aKbLjhANEJNFOWYPrvggn2Vgr9pVr6VofM1R9D7OEnFvduNAncbpP2vhnm3gCRZsb9HqE+D7/AALt1NuDg=="
 }
