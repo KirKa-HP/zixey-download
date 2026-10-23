@@ -1,12 +1,12 @@
 {
-  "build": 2610212101,
-  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/ba8ef2f1bdda5d40c17ee5edd1cfa8fa0a7c77d7/Zixey.exe",
-  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/ba8ef2f1bdda5d40c17ee5edd1cfa8fa0a7c77d7/Zixey.apk",
+  "build": 2610231113,
+  "exe": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/90bbfcaa42272c837205f991771161f2b193359c/Zixey.exe",
+  "apk": "https://raw.githubusercontent.com/KirKa-HP/zixey-download/90bbfcaa42272c837205f991771161f2b193359c/Zixey.apk",
   "page": "https://github.com/KirKa-HP/zixey-download",
-  "notes": "Длинные видео на телефоне открываются | Ролики с камеры и видео длиннее 10 минут больше не чёрные и не по 5 секунд — открываются сразу, без перевода | Перевод видео можно остановить кнопкой «Назад»",
+  "notes": "Экспорт больше не зависает | Экспорт видео, порезанного на много кусков, больше не зависает и идёт быстрее | Если что-то пойдёт не так — понятное сообщение, где и почему, вместо вечного ожидания | На телефоне: выберите видео → «Проверить», чтобы узнать, почему оно не показывается",
   "sha256": {
-    "exe": "6e53c3e2e160312b2b6b492d0435cf30ce15304fa387d87db57ee6ed3effa1e3",
-    "apk": "2cfdb119914262e7fddff64660af05fbb915115a1ae522fb2760ae1f322875f9"
+    "exe": "c217521996f3547b629ede5ab9167a6de92d32e2f5c154c363a187d2a5973eb7",
+    "apk": "47daa255078068786ce5029ef317c2f3d720180360495de6c3810285fb7283e6"
   },
-  "sig": "Co95tI31GWX7V6idIZzwCcGMdMNOYWmNzLFiBVFUe45ziCtrw9CVJ04LYv7+uRmoxiUoloqtvge9HwPaCBVpAQ=="
+  "sig": "tv1R3bXZxUfpGir/RpFDgbTq88yP96pTJbNlkFPJsFm8c0VHiAZKX+qhV+GttmgPiRr9zF45UUCwlxrW2/BUAg=="
 }
